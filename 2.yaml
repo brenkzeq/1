@@ -1,3 +1,4 @@
+# edit 1.1
 payload:
   - DOMAIN-KEYWORD,xxxxxxx
   - DOMAIN-KEYWORD,xxxxxxx
@@ -48,14 +49,6 @@ payload:
   - DOMAIN-KEYWORD,pipopay.
   - DOMAIN-KEYWORD,ufo
   - DOMAIN-KEYWORD,link
-  - DOMAIN-SUFFIX,pullcf.com
-  - DOMAIN-SUFFIX,dalyfeds.com
-  - DOMAIN-SUFFIX,sgsnssdk.com
-  - DOMAIN-SUFFIX,onegg.site
-  - DOMAIN-SUFFIX,dollphoin.site
-  - DOMAIN-SUFFIX,mossru.com
-  - DOMAIN-SUFFIX,mtgglobals.com
-  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,xxxxx
   - DOMAIN-SUFFIX,xxxxx
   - DOMAIN-SUFFIX,xxxxx
@@ -79,6 +72,14 @@ payload:
   - DOMAIN-SUFFIX,terbangrusia.site
   - DOMAIN-SUFFIX,inmense.site
   - DOMAIN-SUFFIX,adjust.com
+  - DOMAIN-SUFFIX,pullcf.com
+  - DOMAIN-SUFFIX,dalyfeds.com
+  - DOMAIN-SUFFIX,sgsnssdk.com
+  - DOMAIN-SUFFIX,onegg.site
+  - DOMAIN-SUFFIX,dollphoin.site
+  - DOMAIN-SUFFIX,mossru.com
+  - DOMAIN-SUFFIX,mtgglobals.com
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,xxxx
   - DOMAIN-SUFFIX,measurement.com
   - DOMAIN-SUFFIX,dbankcloud.cn
